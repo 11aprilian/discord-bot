@@ -4,6 +4,10 @@
       {
         "src": "bot.js",
         "use": "@vercel/node"
+      },
+      {
+        "src": "api/spotify.js",
+        "use": "@vercel/node"
       }
     ],
     "routes": [
